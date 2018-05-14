@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    hello idea and first git branch
+    hello idea and second git branch
   </body>
 </html>
