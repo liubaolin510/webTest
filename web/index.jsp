@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    hello idea and tomcat
+    hello idea and first git branch
   </body>
 </html>
